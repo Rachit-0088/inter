@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Website",
+  "description": "An elegant, full-stack E-Commerce platform with user authentication, product catalogs, shopping cart management, structured checkout, and an administrative control dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
